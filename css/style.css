@@ -1,0 +1,56 @@
+#head-col {
+    width: 100% !important;
+  }
+  .total {
+    background-color: grey;
+    border-radius: 10px 10px 0px 0px;
+    padding: 10px;
+  }
+  div {
+    font-size: 20px;
+  }
+  .table td,
+  .table th {
+    vertical-align: middle !important;
+  }
+  .image {
+    width: 100px;
+  }
+  .fa-times {
+    color: red !important;
+  }
+  .fa-plus,
+  .fa-minus {
+    border: 5px solid blue !important;
+    background-color: blue !important;
+    color: white !important;
+    font-size: 10px !important;
+    margin: 0 5px !important;
+  }
+ 
+  .table {
+    margin: 26px auto !important;
+    width: 95% !important;
+    top: 11px !important;
+    background-color: antiquewhite;
+    border-radius: 8px;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  body {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  li {
+    list-style: none;
+  }
+  .product {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+  }
+  
